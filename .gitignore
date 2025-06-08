@@ -1,23 +1,87 @@
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# dotenv
 .env
+.env.*
+
+# virtualenv
 venv/
-.venv/
-env/
 ENV/
+env/
+.venv/
 
-uploads/
-
-.DS_Store
-Thumbs.db
-
-.streamlit/
-
+# VS Code
 .vscode/
+
+# PyCharm
 .idea/
 
-*.log
-*.bak
-*.tmp
+# Mac
+.DS_Store
+
+# Streamlit cache and logs
+.streamlit/
+**/__pycache__/
+**/.pytest_cache/
+
+# Kaleido image export cache (used by plotly)
+kaleido/
+
+# Ollama models (if used locally)
+ollama/
+
+# OS files
+Thumbs.db
+ehthumbs.db
