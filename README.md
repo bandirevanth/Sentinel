@@ -28,5 +28,9 @@
 ```bash
 pip install streamlit yfinance plotly kaleido ollama
 ollama run llama3.2-vision
-streamlit run trading-ai.py
+streamlit run 
 ```
+
+---
+
+Don't forget to star me on GitHub and follow me! Thanks :)
