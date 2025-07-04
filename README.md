@@ -1,4 +1,4 @@
-# Sentinel: AI-Powered Technical Stock Analysis Dashboard 📈 
+# Sentinel: AI-Powered Technical Stock Analysis Dashboard
 
 ## Overview
 **Sentinel** is a Streamlit dashboard that integrates stock charting with AI-driven trading insights. It combines real-time stock data with candlestick charts and technical indicators, then uses vision-based LLMs to analyze and recommend trades.
