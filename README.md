@@ -28,7 +28,7 @@
 ```bash
 pip install streamlit yfinance plotly kaleido ollama
 ollama run llama3.2-vision
-streamlit run stock-dashboard_v1.py
+streamlit run stock-dashboard.py
 ```
 
 ---
