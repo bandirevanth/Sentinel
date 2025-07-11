@@ -45,6 +45,8 @@ Sentinel is an project developed ***for educational and informational purposes o
 
 - **Market Risks Apply**: Trading in financial markets involves significant risk. Please consult with a certified financial advisor before making investment decisions.
 
+Thank you...
+
 ---
 
 Don't forget to star me on GitHub and follow me! Thanks :)
